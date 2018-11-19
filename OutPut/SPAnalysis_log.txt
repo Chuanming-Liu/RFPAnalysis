@@ -1,0 +1,35 @@
+
+ **********************Start the PreAnalsysis***********************
+ There are 18 Events.
+ **********************Start the PreAnalsysis***********************
+ There are 18 Events.
+----The Event fold maybe Null! NO.:1.000000 
+ 20030905074647
+----The Event fold maybe Null! NO.:2.000000 
+ 20031009221312
+----The Event fold maybe Null! NO.:3.000000 
+ 20031013095229
+----The Event fold maybe Null! NO.:4.000000 
+ 20031018222715
+----The Event fold maybe Null! NO.:5.000000 
+ 20031023075354
+ the NO.6.000000 event F:\Project\GUI_product\RFPreAnalysis_接收函数预处理\RFPretreatment_gui_design\Input\20031024012658 is not exist, go to the next event!
+----The Event fold maybe Null! NO.:7.000000 
+ 20040205210502
+----The Event fold maybe Null! NO.:8.000000 
+ 20040208085848
+----The Event fold maybe Null! NO.:9.000000 
+ 2004082300571
+ the NO.10.000000 event F:\Project\GUI_product\RFPreAnalysis_接收函数预处理\RFPretreatment_gui_design\Input\20070115181759.25 is not exist, go to the next event!
+ the NO.11.000000 event F:\Project\GUI_product\RFPreAnalysis_接收函数预处理\RFPretreatment_gui_design\Input\20070117042826.66 is not exist, go to the next event!
+ the NO.12.000000 event F:\Project\GUI_product\RFPreAnalysis_接收函数预处理\RFPretreatment_gui_design\Input\20070117231849.80 is not exist, go to the next event!
+ the NO.13.000000 event F:\Project\GUI_product\RFPreAnalysis_接收函数预处理\RFPretreatment_gui_design\Input\20070118152718.32 is not exist, go to the next event!
+ the NO.14.000000 event F:\Project\GUI_product\RFPreAnalysis_接收函数预处理\RFPretreatment_gui_design\Input\20070119024423.42 is not exist, go to the next event!
+ the NO.15.000000 event F:\Project\GUI_product\RFPreAnalysis_接收函数预处理\RFPretreatment_gui_design\Input\20070120062104.56 is not exist, go to the next event!
+ the NO.16.000000 event F:\Project\GUI_product\RFPreAnalysis_接收函数预处理\RFPretreatment_gui_design\Input\20070121173255.52 is not exist, go to the next event!
+ the NO.17.000000 event F:\Project\GUI_product\RFPreAnalysis_接收函数预处理\RFPretreatment_gui_design\Input\20070122043318.88 is not exist, go to the next event!
+ the NO.18.000000 event F:\Project\GUI_product\RFPreAnalysis_接收函数预处理\RFPretreatment_gui_design\Input\20070122192549.47 is not exist, go to the next event!
+ **********************Start the PreAnalsysis***********************
+ There are 18 Events.
+ **********************Start the PreAnalsysis***********************
+ There are 18 Events.

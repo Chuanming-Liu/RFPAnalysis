@@ -1,0 +1,52 @@
+clear
+clc
+
+model=mkreadnd('prem.nd');
+h=0;
+dangle=0.5;
+ttp=mkttcurves(model,h,dangle,'P');
+handles=mkplotttcurves(ttp,'b');
+hold on;
+tts=mkttcurves(model,h,dangle,'S');
+handles=mkplotttcurves(tts,'b');
+hold on;
+ttpp=mkttcurves(model,h,dangle,'PP');
+handles=mkplotttcurves(ttpp,'c');
+hold on;
+ttss=mkttcurves(model,h,dangle,'SS');
+handles=mkplotttcurves(ttss,'c');
+hold on;
+ttpcp=mkttcurves(model,h,dangle,'PcP');
+handles=mkplotttcurves(ttpcp,'r');
+hold on;
+ttscs=mkttcurves(model,h,dangle,'ScS');
+handles=mkplotttcurves(ttscs,'r');
+hold on;
+ttpkp=mkttcurves(model,h,dangle,'PKP');
+handles=mkplotttcurves(ttpkp,'g');
+hold on;
+ttsks=mkttcurves(model,h,dangle,'SKS');
+handles=mkplotttcurves(ttsks,'g');
+hold on;
+ttpkkp=mkttcurves(model,h,dangle,'PKKP');
+handles=mkplotttcurves(ttpkkp,'y');
+hold on;
+ttskks=mkttcurves(model,h,dangle,'SKKS');
+handles=mkplotttcurves(ttskks,'y');
+hold on;
+ttpkikp=mkttcurves(model,h,dangle,'PKIKP');
+handles=mkplotttcurves(ttpkikp,'k');
+hold on;
+ttskiks=mkttcurves(model,h,dangle,'SKIKS');
+handles=mkplotttcurves(ttskiks,'k');
+hold on;
+tti=mkttcurves(model,h,dangle,'PKiKP');
+handles=mkplotttcurves(tti,'m');
+hold on;
+ttsp=mkttcurves(model,h,dangle,'SP');
+handles=mkplotttcurves(ttsp,'m');
+hold on;
+ttscp=mkttcurves(model,h,dangle,'ScP');
+handles=mkplotttcurves(ttscp,'g');
+hold on;
+
